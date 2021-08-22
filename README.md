@@ -9,7 +9,7 @@ In evaluating possible stocks for your parents' future investments, I felt it wa
 #### 2017 Results
 2017 was a year with multiple stocks showing high returns of investment (3 with over 100%).  There was only one stock (TERP) that was showing a negative return of investment. 2017 seemed to be a lucrative time for Wall Street investors. I believe your parents were interested in investing in DQ. While 2017 showed them with almost 200% return of investment, 2018 was telling quite a different story. 
 
-![2017_Stock_Return_Summary.png](https://github.com/melaniekelsey/stock-analysis/blob/main/Resources?2017_Stock_Return_Summary.png)
+![2017_Stock_Return_Summary.png](https://github.com/melaniekelsey/stock-analysis/blob/main/Resources/2017_Stock_Return_Summary.png)
 
 #### 2018 Results
 While in 2018, only 2 stocks actually provided a return in investment, despite the fact that there were higher daily volume overall for the evaluated stocks in that particular year. Both ENPH and RUN had a little over 80% return of investment, while all the others were in the red. Looking at DQ in 2018 you will see -62.6% return in investment. 
