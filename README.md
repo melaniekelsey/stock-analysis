@@ -1,5 +1,5 @@
 # An Evaluation of Stocks for Future Investment
-## Overview of the Project: A summary of Total Daily Voiume and Return % for Stocks in 2017-2018 to best determine which ones to make an investment
+## Overview of the Project: A summary of Total Daily Volume and Return % for Stocks in 2017-2018 to best determine which ones to make an investment
 
 This project asked me to look at 2 years worth of stock performance for 12 different stocks. It was asked to calculate total Volume and Return percentage to best determine which stocks might be good to invest in. 
 
@@ -27,13 +27,22 @@ Refactoring the code was the key to a quicker macro performance. In the original
 
 In the refactored code, you loop through the rows of stock data first to calculate the volume, starting price and ending price. Following that loop, you go through all the different ticker symbols to get the results of those 3 arrays. It creates a situation with 12 small loops as opposed to 12 large loops and speeds up the code performance. 
 
+#### Original Script 2017 Performance
+
 ![VBA_Challenge_2017.png](https://github.com/melaniekelsey/stock-analysis/blob/main/Resources/VBA_Challenge_2017_OrigScript.png)
+
+#### Refactored Script 2017 Performance
 
 ![VBA_Challenge_2017.png](https://github.com/melaniekelsey/stock-analysis/blob/main/Resources/VBA_Challenge_2017.png)
 
+#### Original Script 2018 Performance
+
 ![VBA_Challenge_2018.png](https://github.com/melaniekelsey/stock-analysis/blob/main/Resources/VBA_Challenge_2018_OrigScript.png)
 
+#### Refactored Script 2018 Performance
+
 ![VBA_Challenge_2018.png](https://github.com/melaniekelsey/stock-analysis/blob/main/Resources/VBA_Challenge_2018.png)
+
 ## Summary
 
 ### What are the advantages of refactoring code?
